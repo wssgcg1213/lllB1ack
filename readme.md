@@ -9,6 +9,6 @@ Tested:
 + Safari7
 + Chrome30dev+
 
-###No JS
+###下面那个能滑动了(CSS3)
 
 ####直接访问移步: http://test.treeforests.com/homework/lllB1ack/
